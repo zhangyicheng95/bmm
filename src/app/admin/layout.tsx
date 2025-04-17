@@ -9,8 +9,8 @@ import { AdminProvider } from './ctx'
 
 export const metadata: Metadata = {
   title: {
-    default: '后台数据管理 - ' + WEBSITE_NAME + ' CMS',
-    template: '%s - ' + WEBSITE_NAME + ' CMS',
+    default: '后台数据管理 - ' + WEBSITE_NAME, // + ' CMS',
+    template: '%s - ' + WEBSITE_NAME, // + ' CMS',
   },
 }
 

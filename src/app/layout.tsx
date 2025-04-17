@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     WEBSITE_NAME +
     ' - 你的智能书签管家！支持 AI 解析网站信息，自动生成标签，跨设备同步书签。高效管理你的收藏夹，探索开发者精选资源，支持明暗双主题与多端适配。',
   icons: Assets.LOGO_SVG,
-  applicationName: 'BMM 书签管家',
+  applicationName: '文旅 AI 导航',
   authors: { name: '令川', url: 'https://lccl.cc' },
   keywords: WEBSITE_KEYWORDS,
   robots: { index: true, follow: true },

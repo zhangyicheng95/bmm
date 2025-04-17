@@ -14,5 +14,8 @@
   ],
   "files.associations": {
     ".env**": "dotenv"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   }
 }
